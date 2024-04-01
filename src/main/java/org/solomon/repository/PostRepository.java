@@ -1,8 +1,9 @@
 package org.solomon.repository;
 
+import org.solomon.model.Post;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public interface Post extends MongoRepository<Post, String> {
+public interface PostRepository extends MongoRepository<Post, String> {
 }

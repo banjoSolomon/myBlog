@@ -4,15 +4,71 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fa139b0-90ac-43ec-925f-f6efc8466182" name="Changes" comment="" />
+    <list default="true" id="6fa139b0-90ac-43ec-925f-f6efc8466182" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/controllers/BlogControllers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/controllers/BlogControllers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/dtos/LoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/dtos/LoginRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/dtos/PostRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/dtos/PostRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/dtos/RegisterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/dtos/RegisterRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/exceptions/IncorrectPasswordException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/exceptions/IncorrectPasswordException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/exceptions/InvalidUsernameOrPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/exceptions/InvalidUsernameOrPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/exceptions/UserExistsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/exceptions/UserExistsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/exceptions/UsernameNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/exceptions/UsernameNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/model/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/model/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/model/Post.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/model/Post.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/model/Views.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/model/Views.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/repository/CommentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/repository/CommentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/repository/PostRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/repository/PostRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/repository/ViewsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/repository/ViewsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/response/ApiResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/response/ApiResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/response/CreatePostResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/response/CreatePostResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/response/LoginUserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/response/LoginUserResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/response/RegisterUserResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/response/RegisterUserResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/services/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/services/CommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/services/CommentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/services/CommentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/services/PostService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/services/PostService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/services/PostServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/services/PostServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/services/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/services/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/services/UserServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/services/UserServiceImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/services/ViewsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/services/ViewsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/services/ViewsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/services/ViewsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/solomon/utilits/Mapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/solomon/utilits/Mapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/solomon/repository/UserRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/solomon/repository/UserRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/solomon/services/UserServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/solomon/services/UserServiceImplTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="UserServiceImplTest" />
+    </enabled-run-configurations>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2eDzgiybEoETyu6UGa36LqaBFir" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,14 +77,110 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "HTTP Request.generated-requests | #10.executor": "Run",
+    "HTTP Request.generated-requests | #11.executor": "Run",
+    "HTTP Request.generated-requests | #12.executor": "Run",
+    "HTTP Request.generated-requests | #13.executor": "Run",
+    "HTTP Request.generated-requests | #14.executor": "Run",
+    "HTTP Request.generated-requests | #15.executor": "Run",
+    "HTTP Request.generated-requests | #16.executor": "Run",
+    "HTTP Request.generated-requests | #17.executor": "Run",
+    "HTTP Request.generated-requests | #18.executor": "Run",
+    "HTTP Request.generated-requests | #20.executor": "Run",
+    "HTTP Request.generated-requests | #21.executor": "Run",
+    "HTTP Request.generated-requests | #22.executor": "Run",
+    "HTTP Request.generated-requests | #23.executor": "Run",
+    "HTTP Request.generated-requests | #24.executor": "Run",
+    "HTTP Request.generated-requests | #8.executor": "Run",
+    "HTTP Request.generated-requests | #9.executor": "Run",
+    "JUnit.UserRepositoryTest.executor": "Run",
+    "JUnit.UserRepositoryTest.saveTest.executor": "Run",
+    "JUnit.UserServiceImplTest.executor": "Run",
+    "JUnit.UserServiceImplTest.loginNonExistentUser_throwsUsernameNotFoundExceptionTest.executor": "Run",
+    "JUnit.UserServiceImplTest.loginWithIncorrectPassword_throwsIncorrectPasswordExceptionTest.executor": "Run",
+    "JUnit.UserServiceImplTest.testRegisterSameUserTwice.executor": "Run",
+    "JUnit.UserServiceImplTest.testUserCanLogin_WithCorrectPassword.executor": "Run",
+    "JUnit.UserServiceImplTest.testUserCanRegister.executor": "Run",
+    "JUnit.UserServiceImplTest.userCanCreatePost_PostIsOneIsOneTest.executor": "Run",
+    "JUnit.UserTest.UserCanRegister.executor": "Run",
+    "JUnit.UserTest.executor": "Run",
+    "JUnit.UserTest.saveTest.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.Main.executor": "Run",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/DELL/IdeaProjects/soloBlog/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.solomon.services" />
+      <recent name="org.solomon.repository" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Main">
+    <configuration name="generated-requests | #24" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="24" requestIdentifier="#24" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #25" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="25" requestIdentifier="#25" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #26" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="26" requestIdentifier="#26" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #27" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="27" requestIdentifier="#27" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="soloBlog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.solomon.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.solomon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Main" />
+        <item itemvalue="HTTP Request.generated-requests | #27" />
+        <item itemvalue="HTTP Request.generated-requests | #26" />
+        <item itemvalue="HTTP Request.generated-requests | #25" />
+        <item itemvalue="HTTP Request.generated-requests | #24" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,7 +189,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711454052570</updated>
-      <workItem from="1711454055235" duration="12000" />
+      <workItem from="1711454055235" duration="674000" />
+      <workItem from="1711542024244" duration="9585000" />
+      <workItem from="1711579586923" duration="22726000" />
+      <workItem from="1711722356233" duration="36833000" />
+      <workItem from="1711892609328" duration="21332000" />
+      <workItem from="1711967987080" duration="3956000" />
+      <workItem from="1711972013361" duration="1605000" />
     </task>
     <servers />
   </component>
@@ -45,14 +203,11 @@
     <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="users" language="JAVA" />
+        <watch expression="foundUser" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

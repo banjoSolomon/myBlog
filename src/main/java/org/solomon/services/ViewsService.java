@@ -1,2 +1,4 @@
-package org.solomon.services;public interface ViewsService {
+package org.solomon.services;
+
+public interface ViewsService {
 }

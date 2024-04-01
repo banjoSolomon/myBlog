@@ -1,2 +1,10 @@
-package org.solomon.dtos;public class PostRequest {
+package org.solomon.dtos;
+
+import lombok.Data;
+
+@Data
+public class PostRequest {
+    private String Username;
+    private String title;
+    private String content;
 }

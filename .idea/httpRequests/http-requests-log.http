@@ -1,0 +1,421 @@
+POST http://localhost:8080/post
+Content-Type: application/json
+Content-Length: 60
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "Username": "ben",
+  "title": "hh",
+  "content": "ook"
+}
+
+<> 2024-04-01T104704.400.json
+
+###
+
+POST http://localhost:8080/post
+Content-Type: application/json
+Content-Length: 63
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "Username": "ben",
+  "title": "led",
+  "content": "hello"
+}
+
+<> 2024-04-01T104029.400.json
+
+###
+
+PATCH http://localhost:8080/login
+Content-Type: application/json
+Content-Length: 44
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "ben",
+  "password": "123"
+}
+
+<> 2024-04-01T103955.200.json
+
+###
+
+POST http://localhost:8080/register
+Content-Type: application/json
+Content-Length: 85
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "kk",
+  "lastName": "sd",
+  "username": "ben",
+  "password": "123"
+}
+
+<> 2024-04-01T103924.201.json
+
+###
+
+POST http://localhost:8080/post
+Content-Type: application/json
+Content-Length: 71
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "Username": "bi",
+  "title": "my story",
+  "content": "erttythgj"
+}
+
+<> 2024-04-01T103750.400.json
+
+###
+
+POST http://localhost:8080/post
+Content-Type: application/json
+Content-Length: 71
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "Username": "bi",
+  "title": "my story",
+  "content": "erttythgj"
+}
+
+<> 2024-04-01T103746.400.json
+
+###
+
+POST http://localhost:8080/post
+Content-Type: application/json
+Content-Length: 71
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "Username": "bi",
+  "title": "my story",
+  "content": "erttythgj"
+}
+
+<> 2024-04-01T103214.400.json
+
+###
+
+POST http://localhost:8080/post
+Content-Type: application/json
+Content-Length: 71
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "Username": "bi",
+  "title": "my story",
+  "content": "erttythgj"
+}
+
+<> 2024-04-01T010632.400.json
+
+###
+
+POST http://localhost:8080/post
+Content-Type: application/json
+Content-Length: 71
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "Username": "bi",
+  "title": "my story",
+  "content": "erttythgj"
+}
+
+<> 2024-04-01T010607.400.json
+
+###
+
+PATCH http://localhost:8080/login
+Content-Type: application/json
+Content-Length: 42
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "bi",
+  "password": "12"
+}
+
+<> 2024-04-01T010523.200.json
+
+###
+
+POST http://localhost:8080/register
+Content-Type: application/json
+Content-Length: 85
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "key",
+  "lastName": "dff",
+  "username": "bi",
+  "password": "12"
+}
+
+<> 2024-04-01T010451.201.json
+
+###
+
+PATCH http://localhost:8080/login
+Content-Type: application/json
+Content-Length: 43
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "ay",
+  "password": "123"
+}
+
+<> 2024-03-31T213958.200.json
+
+###
+
+POST http://localhost:8080/register
+Content-Type: application/json
+Content-Length: 92
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "Banjo",
+  "lastName": "Solomon",
+  "username": "ay",
+  "password": "123"
+}
+
+<> 2024-03-31T213934.201.json
+
+###
+
+PATCH http://localhost:8080/login
+Content-Type: application/json
+Content-Length: 45
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "solo",
+  "password": "123"
+}
+
+<> 2024-03-31T213834.400.json
+
+###
+
+POST http://localhost:8080/login
+Content-Type: application/json
+Content-Length: 43
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "ay",
+  "password": "123"
+}
+
+<> 2024-03-31T213733.405.json
+
+###
+
+POST http://localhost:8080/login
+Content-Type: application/json
+Content-Length: 43
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "ay",
+  "password": "123"
+}
+
+<> 2024-03-31T213659.405.json
+
+###
+
+POST http://localhost:8080/login
+Content-Type: application/json
+Content-Length: 43
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "ay",
+  "password": "123"
+}
+
+<> 2024-03-31T213534.405.json
+
+###
+
+POST http://localhost:8080/register
+Content-Type: application/json
+Content-Length: 92
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "banjo",
+  "lastName": "solomon",
+  "username": "ay",
+  "password": "123"
+}
+
+<> 2024-03-31T213508.201.json
+
+###
+
+POST http://localhost:8080/user/register
+Content-Type: application/json
+Content-Length: 88
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "fgg",
+  "lastName": "hjj",
+  "username": "solo",
+  "password": "123"
+}
+
+<> 2024-03-31T213421.404.json
+
+###
+
+POST http://localhost:8080/user/login
+Content-Type: application/json
+Content-Length: 45
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "solo",
+  "password": "123"
+}
+
+<> 2024-03-31T213307.404.json
+
+###
+
+PATCH http://localhost:8080/user/login
+Content-Type: application/json
+Content-Length: 44
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "err",
+  "password": "244"
+}
+
+<> 2024-03-31T213044.404.json
+
+###
+
+PATCH http://localhost:8080/login
+Content-Type: application/json
+Content-Length: 45
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "solo",
+  "password": "123"
+}
+
+<> 2024-03-31T212758.400.json
+
+###
+
+POST http://localhost:8080/register
+Content-Type: application/json
+Content-Length: 84
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "eee",
+  "lastName": "aa",
+  "username": "dd",
+  "password": "rf"
+}
+
+<> 2024-03-31T212731.201.json
+
+###
+
+PATCH http://localhost:8080/login
+Content-Type: application/json
+Content-Length: 49
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "username": "solomon",
+  "password": "1234"
+}
+
+<> 2024-03-31T212639.400.json
+
+###
+
+POST http://localhost:8080/register
+Content-Type: application/json
+Content-Length: 85
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "ee",
+  "lastName": "as",
+  "username": "eer",
+  "password": "111"
+}
+
+<> 2024-03-30T032656.200.txt
+
+###
+
